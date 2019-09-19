@@ -6,3 +6,4 @@ number -= 1
  "HAPPY NEW YEAR!"
 end
 
+def countdown_
