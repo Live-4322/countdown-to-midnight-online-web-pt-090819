@@ -6,6 +6,8 @@ number -= 1
  "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep
-  
-  
+def countdown_with_sleep (number)
+ 
+ 
+  sleep(num_secs)
+end
